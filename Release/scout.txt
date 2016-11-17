@@ -1,0 +1,14 @@
+Spark Script Version 4
+scout
+Counter-Strike: Global Offensive
+0
+1
+1
+0.02
+0.02
+1
+1
+2
+1920
+1080
+1:399:832:0
